@@ -10,7 +10,6 @@ mpDraw = mp.solutions.drawing_utils
 pTime = 0
 cTime = 0
 author="MD RABIUL AWAL SHUVO"
-author2 ="Al-Amin Ashik"
 
 
 while True:
