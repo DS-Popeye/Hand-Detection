@@ -11,6 +11,7 @@ pTime = 0
 cTime = 0
 author="MD RABIUL AWAL SHUVO"
 
+author2 ="Al-Amin Ashik"
 
 while True:
     success, img = cap.read()
